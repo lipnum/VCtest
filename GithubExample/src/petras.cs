@@ -9,5 +9,6 @@ namespace GithubExample.src
     public class petras
     {
         private int y;
+        private int z;
     }
 }
