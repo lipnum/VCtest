@@ -8,5 +8,6 @@ namespace GithubExample.src
 {
     class linas2
     {
+        private int x;
     }
 }
