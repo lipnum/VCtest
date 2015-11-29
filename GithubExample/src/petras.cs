@@ -10,5 +10,6 @@ namespace GithubExample.src
     {
         private int y;
         private int z;
+        private int z;
     }
 }
